@@ -31,6 +31,8 @@ Boulogne sur Mer, Hauts-de-France
 &nbsp;&nbsp;
 ![img_css](./img/css.svg)
 &nbsp;&nbsp;
+![img_tailwind](./img/tailwind.svg)
+&nbsp;&nbsp;
 ![img_javascript](./img/javascript.svg)
 
 ## Nos réalisations
