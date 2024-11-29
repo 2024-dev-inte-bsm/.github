@@ -8,7 +8,7 @@ Boulogne sur Mer, Hauts-de-France
 <figure>
     <div align="center">
         <a href="https://2024-dev-inte-bsm.github.io/trombi-lt">
-            <img src="https://placehold.co/300x200?font=playfair-display&text=?" alt="trombi.png" style="width: 300px !important;">
+            <img src="./img/trombi.png" alt="trombi.png" style="width: 300px !important;">
         </a>
     </div>
     <div align="center">
